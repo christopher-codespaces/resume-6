@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+.section1 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: tomato;
+   color: white;
+   margin-bottom: 0%; 
+}
+
+.image {
+border: 2px solid white;
+border-radius: 100px;
+width: "150";
+height: 200px;
+
+}
+.image-text {
+   font-weight: 600;
+   font-size: xx-large;
+   text-align: center;
+}
+
+.menu {
+   padding-top: 0;
+   color: "white";
+   background-color: black;
+   width: 250px;
+   height:  250px;
+
+
+}
+
+.header-text{
+   height: 75px;
+   color: white;
+   text-align: center;
+   font-size: 40px;
+}
+.text{
+   color: white;
+   text-decoration: none !important;
+   font-size: 16px;
+}
+.code-text{
+   color: rgb(1, 27, 1);
+   text-decoration: none !important;
+   font-size: 16px;
+}
+.a {
+   text-decoration: none;
+   background-color: white;
+
+
+}
+
+.section-ed {
+margin-left: 90px;
+padding-right: 10%;
+place-content: center;
+
+}
